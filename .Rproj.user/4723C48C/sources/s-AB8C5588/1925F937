@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1513463529111.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1925F937",
+    "lastKnownWriteTime" : 1513471341,
+    "last_content_update" : 1513471341081,
+    "path" : "~/Documents/programming/rProjects/excel_combiner/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "49,21",
+        "scrollLine" : "41"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
